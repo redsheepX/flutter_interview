@@ -134,11 +134,11 @@ final List<String> name = <String>['A', 'B', 'C', 'D', 'E'];
 final Map<String, List<Map>> schedule = {
   "A": [
     {"title": "吃飯A", "interval": "每週一", "time": "11:00-17:00"},
-    {"title": "吃飯2", "interval": "每週一", "time": "11:00-17:00"}
+    {"title": "吃飯B", "interval": "每週一", "time": "11:00-17:00"}
   ],
   "B": [
-    {"title": "吃飯A", "interval": "每週一", "time": "11:00-17:00"},
-    {"title": "吃飯2", "interval": "每週一", "time": "11:00-17:00"}
+    {"title": "吃飯C", "interval": "每週一", "time": "11:00-17:00"},
+    {"title": "吃飯D", "interval": "每週一", "time": "11:00-17:00"}
   ],
   "C": [
     {"title": "吃飯A", "interval": "每週一", "time": "11:00-17:00"},
